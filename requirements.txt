@@ -1,0 +1,7 @@
+flask
+pytesseract
+pillow
+numpy
+scikit-learn
+
+# https://github.com/UB-Mannheim/tesseract/wiki
